@@ -1,6 +1,6 @@
 ### <h2 align="center">Oi sou o Matheus Marins, atualmente estudante e focado no front-end!</h1> 
 
-<div align="inline">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/Mar0la">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mar0la&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mar0la&layout=compact&langs_count=7&theme=dark"/>
