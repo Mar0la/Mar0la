@@ -1,4 +1,4 @@
-### <h2 align="center">Oi sou o Matheus Marins, atualmente estudante e focado no front-end!</h1> 
+### <h2 align="center">Oi me chamo Matheus Marins, atualmente estudante e estou focado no front-end!</h1> 
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Mar0la">
