@@ -1,5 +1,27 @@
-### <h2 align="center">Oi me chamo Matheus Marins e atualmente sou estudante ADS.
+
   
+  
+<div align:"center"">
+
+  <h2>Oi! Eu me chamo Matheus, mas, podem me chamar de Mar0la</h2>
+   <p style="text-align:left"> - Estou atualmente estudando ReactJS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> e NodeJS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></p>
+   <p style="text-align:left"> - Cursando Análise e Desenvolvimento de Sistemas</p>
+
+</div>
+
+ 
+###  <p align="center">Linguagens e ferramentas:</p>
+
+<div align="center" style="display: inline_block">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+</div>
+  
+##
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Mar0la">
@@ -9,18 +31,13 @@
   
 ##
   
-###  <p align="center">Skills</p>
-<div align="center" style="display: inline_block">
-  Estou masterizando:
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-##
-    
+###  <p align="center">Contatos:</p>
+
 <div align="center"> 
+
   <a href="https://www.linkedin.com/in/matheus-marins-2a8649208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/matheus-marins-2a8649208/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    
 </div>
   
 <div align="center"> 
