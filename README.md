@@ -1,12 +1,7 @@
-
-  
-  
-<div align:"center"">
-
+<div align="center" style="text-align:left">
   <h2>Oi! Eu me chamo Matheus, mas, podem me chamar de Mar0la</h2>
-   <p style="text-align:left"> - Estou atualmente estudando ReactJS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> e NodeJS<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></p>
-   <p style="text-align:left"> - Cursando Análise e Desenvolvimento de Sistemas</p>
-
+  <p> - Estou atualmente estudando ReactJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> e NodeJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></p>
+   <p> - Cursando Análise e Desenvolvimento de Sistemas</p>
 </div>
 
  
@@ -20,8 +15,19 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </div>
+
+
+
+ 
+
+<div align="center"> 
+           
+   <h3>Contatos: <code><a href="https://www.linkedin.com/in/matheus-marins-2a8649208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></code>
+    <code><a href="mailto: nicksoares3658@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a></code></h3>
   
-##
+</div>
+  
+
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Mar0la">
@@ -31,14 +37,6 @@
   
 ##
   
-###  <p align="center">Contatos:</p>
-
-<div align="center"> 
-
-  <a href="https://www.linkedin.com/in/matheus-marins-2a8649208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/matheus-marins-2a8649208/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-    
-</div>
   
 <div align="center"> 
   
