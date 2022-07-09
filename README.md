@@ -21,25 +21,30 @@
  
 
 <div align="center"> 
-           
+      
    <h3>Contatos: <code><a href="https://www.linkedin.com/in/matheus-marins-2a8649208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></code>
     <code><a href="mailto: matheus.marins2011@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a></code></h3>
-  
+    
 </div>
   
 
 
-<div>
-  <a href="https://github.com/Mar0la">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mar0la&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mar0la&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
   
 ##
   
   
 
-  
-  ![Snake animation](https://github.com/Mar0la/Mar0la/blob/output/github-contribution-grid-snake.svg)
-  
+<div align="center">
+
+ ![Snake animation](https://github.com/Mar0la/Mar0la/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
+
 
