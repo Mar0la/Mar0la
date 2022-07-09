@@ -23,7 +23,7 @@
 <div align="center"> 
            
    <h3>Contatos: <code><a href="https://www.linkedin.com/in/matheus-marins-2a8649208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></code>
-    <code><a href="mailto: matheus.narins2011@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a></code></h3>
+    <code><a href="mailto: matheus.marins2011@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a></code></h3>
   
 </div>
   
