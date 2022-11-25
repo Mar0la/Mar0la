@@ -1,5 +1,5 @@
 <div align="center" style="text-align:left">
-  <h2>Oi! Eu me chamo Matheus, mas, podem me chamar de Mar0la</h2>
+  <h2>Oi! Eu me chamo Matheus</h2>
   <p> - Estou atualmente estudando ReactJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> e NodeJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></p>
    <p> - Cursando Análise e Desenvolvimento de Sistemas</p>
 </div>
