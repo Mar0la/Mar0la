@@ -1,5 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6EDE5&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Matheus+Marins;Tenho+22+anos;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 <div align="center" style="text-align:left">
-  <h2>Oi! Eu me chamo Matheus</h2>
+  <h2>Olá! Me chamo Matheus</h2>
+  <h3>Desenvolvedor Back-end/FullStack</h3>
   <p> - Estou atualmente estudando ReactJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> e NodeJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></p>
    <p> - Cursando Análise e Desenvolvimento de Sistemas</p>
 </div>
